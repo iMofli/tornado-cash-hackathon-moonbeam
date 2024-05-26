@@ -1,0 +1,19 @@
+{
+  "name": "call-permit-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getSignature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/eth-sig-util": "^7.0.2",
+    "circomlibjs": "^0.1.2",
+    "crypto": "^1.0.1",
+    "ethers": "^6.12.1"
+  },
+  "type": "module"
+}
