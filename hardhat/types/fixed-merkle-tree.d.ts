@@ -1,0 +1,1 @@
+declare module 'fixed-merkle-tree'
